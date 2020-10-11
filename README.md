@@ -1,3 +1,3 @@
-# Chrome app with vanilaJS
+# Chrome app with vanillaJS
 
-Making chrome app with vanilaJS
+Making chrome app with vanillaJS
